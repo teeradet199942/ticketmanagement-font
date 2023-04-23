@@ -1,0 +1,49 @@
+.div-box {
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  
+}
+.card-create {
+  width: 60%;
+  height: auto;
+  border: 3px solid #f0f0f0;
+}
+.row-create {
+  display: flex;
+  flex-direction: column;
+}
+.col {
+  margin-bottom: 1rem;
+}
+
+.row-btn {
+  display: flex;
+  justify-content: center;
+}
+.btn {
+  margin-right: 1rem;
+}
+.text-create-h1 {
+  text-align: center;
+  padding-top: 2rem;
+}
+.div-text-info {
+  margin-top: 2%;
+  font-size: 1.5rem;
+}
+.div-text-info p {
+  margin-left: 21%;
+}
+.div-p {
+  text-align: center;
+}
+hr {
+  margin: 0 auto;
+  width: 58%;
+  border: 4px solid #e91e76;
+  border-radius: 5px;
+}
+

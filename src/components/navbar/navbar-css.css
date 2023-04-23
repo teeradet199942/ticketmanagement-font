@@ -1,0 +1,38 @@
+.navbar-header {
+  background-color: #e91e76;
+  height: 60px;
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 50px;
+  color: aliceblue;
+}
+.navbar-header p {
+ 
+  font-family: "Bruno Ace SC", cursive;
+  font-family: "Lato", sans-serif;
+}
+.div-logo {
+  display: flex;
+  align-items: center;
+}
+.logo-image {
+  width: 3rem;
+  margin-right: 10px;
+}
+.btn-hover:hover {
+  cursor: pointer;
+}
+.div-nav-btn {
+  display: flex;
+}
+.div-nav-btn a {
+  margin-left: 30px;
+  text-decoration: none;
+  color: white;
+  font-family: "Bruno Ace SC", cursive;
+  font-family: "Lato", sans-serif;
+
+}
